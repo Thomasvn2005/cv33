@@ -1,0 +1,19 @@
+
+      body {
+        background: #00bcd4;
+      }
+
+      h3 {
+        color: #e8ffff;
+        font-size: 3rem;
+        padding-left: 60px;
+        font-style: italic;
+      }
+
+      hr {
+        border-style: dotted none none;
+        height: 60px;
+        width: 15%;
+        border-width: 45px;
+        color: #28df99;
+      }
