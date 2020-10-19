@@ -9,15 +9,12 @@
         padding-left: 60px;
         font-style: italic;
       }
-
-      hr {
+  hr {
         border-style: dotted none none;
-        height: 60px;
-        width: 15%;
-        border-width: 45px;
-                           color:#000000;
 
-
+        width: 26%;
+        border-width: 27px;
+        color: #335d2d;
       }
 h1 {
         color: #e8ffff;
