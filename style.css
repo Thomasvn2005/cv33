@@ -25,3 +25,15 @@ h1 {
         padding-left: 60px;
         font-style: italic;
       }
+table{
+  table-layout: auto;
+  width: 70%;
+  border-width :  5px   ;
+  border-color:  #87431d;
+  color: #411f1f;
+
+}
+td{
+  border-color:#f3c623;
+  border-width: 4px;
+}
