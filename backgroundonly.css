@@ -15,3 +15,7 @@ table{
   color: #411f1f;
 
 }
+td{
+  border-color:#f3c623;
+  border-width: 4px;
+}
