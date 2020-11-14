@@ -1,18 +1,16 @@
 body {
-    
-       background-color: #28df99;
-
+  background: #28df99;
 }
 h3 {
   color: #e8ffff;
   font-size: 3rem;
   padding-left: 60px;
-  font-style: italic;
+  font-family: 'Goldman', cursive;
 }
 table{
   table-layout: auto;
   width: 70%;
-  border-width :  5px   ;
+  border-width :  10px   ;
   border-color:  #87431d;
   color: #411f1f;
   border-spacing:  15px;
