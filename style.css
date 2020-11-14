@@ -9,7 +9,7 @@
         color: #e8ffff;
         font-size: 3rem;
         padding-left: 60px;
-        font-style: italic;
+        font-family: 'Goldman', cursive;
       }
   hr {
         border-style: dotted none none;
@@ -22,7 +22,7 @@ h1 {
         color: #e8ffff;
         font-size: 3rem;
         padding-left: 60px;
-        font-style: italic;
+        font-family: 'Goldman', cursive;
       }
 table{
   table-layout: auto;
